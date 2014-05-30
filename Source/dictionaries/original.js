@@ -42,6 +42,7 @@ var dictionary={
 		"TERRIFYING" : "MODERATELY UNCOMFORTABLE",
 		"Terrifying" : "Thoroughly Banal",
 		"That Will Make You Rethink" : "That You May Find Vaguely Interesting But Won't Change Your Life in Any Way",
+		"The Wildest Thing": "The Fairly Standard Thing",
 		"This Is What Happens" : "This Is Our Bullshit Clickbait Version Of What Happens",
 		"Totally blew my mind" : "Bored Me To Tears",
 		"Unbelievable" : "Painfully Ordinary",
